@@ -4,6 +4,10 @@
 
 This is a Ddos Script written in rust for windows Systems.
 
+## Configuration 
+
+Just Download the .exe file. Enter the Url and Ddos with Consent.
+
 ## Legal Implications
 
 Before using or sharing this code, it is essential to understand and comply with the legal implications:
