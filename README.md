@@ -8,11 +8,19 @@ This is a Ddos Script written in rust for windows Systems.
 
 Just Download the .exe file. Enter the Url and Ddos with Consent.
 
+## System Requirements
+
+This code continues to take more and more ram till it is run. So please monitor your ram usage and close the program when needed.
+
+- **Minimum**: 8 Gb ram , 8 core cpu , 100 Mbps internet connection.
+  
+- **Recomended**: 16 Gb ram , 20 core cpu , 300 Mbps internet connection.
+
 ## Legal Implications
 
 Before using or sharing this code, it is essential to understand and comply with the legal implications:
 
-- **Consent**: Always obtain explicit consent from the recipient before using this code. Sending unsolicited emails can be considered spam and may violate applicable laws.
+- **Consent**: Always obtain explicit consent from the recipient before using this code. Remember DDos attacks are punishable by law.
 
 - **Ethical Use**: Use this code responsibly and ethically. It should not be used to harm, harass, or engage in any malicious activities.
 
